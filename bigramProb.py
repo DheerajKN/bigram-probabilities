@@ -1,7 +1,6 @@
 import csv
 import json, pickle
 import sys
-import string
 
 def readData(fileName):
 	data = []
